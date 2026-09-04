@@ -5,5 +5,5 @@
 # content = file.read()
 # file.close()
 
-with open("myfile.txt","w") as file:
+with open(r"\test\myfile.txt","w") as file:
     file.write("Hello World123")
